@@ -7,3 +7,5 @@ Bu, uygulama içinde görevleri (task) ekleyip silmek için gerekli işlemleri i
 
 
 ## Ekran Gif
+
+![Ekran Kaydı 2025-04-13 20 11 54](https://github.com/user-attachments/assets/e0a832c4-4fb5-4f37-8920-8af4afecaff5)
